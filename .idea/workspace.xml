@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3b62fb23-361e-454d-8bf3-b474c9a0cd68" name="Changes" comment="Se sube tercer ejercicio">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio1BootCamp_Maylee_Mora.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2lpzyaCGpQ7efcUd8iTdd1b6bWj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ejercicio4.executor": "Run",
+    "Application.ejercicio5.executor": "Run",
+    "Application.ejercicio6.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Maylee.Mora/IdeaProjects/Ejercicio1BootCamp_Maylee_Mora/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.ejercicio6">
+    <configuration name="ejercicio4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicios.ejercicio4" />
+      <module name="Ejercicio1BootCamp_Maylee_Mora" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ejercicio5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicios.ejercicio5" />
+      <module name="Ejercicio1BootCamp_Maylee_Mora" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ejercicio6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicios.ejercicio6" />
+      <module name="Ejercicio1BootCamp_Maylee_Mora" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ejercicio6" />
+        <item itemvalue="Application.ejercicio5" />
+        <item itemvalue="Application.ejercicio4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b62fb23-361e-454d-8bf3-b474c9a0cd68" name="Changes" comment="" />
+      <created>1725892067759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725892067759</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Se sube primer ejercicio">
+      <option name="closed" value="true" />
+      <created>1725892329986</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725892329986</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Se sube segundo ejercicio">
+      <option name="closed" value="true" />
+      <created>1725892747020</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725892747020</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Se sube tercer ejercicio">
+      <option name="closed" value="true" />
+      <created>1725892900029</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725892900029</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Se sube primer ejercicio" />
+    <MESSAGE value="Se sube segundo ejercicio" />
+    <MESSAGE value="Se sube tercer ejercicio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se sube tercer ejercicio" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
